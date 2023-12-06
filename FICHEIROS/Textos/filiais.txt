@@ -1,0 +1,6 @@
+1000;LAM_Beira; AV. 1;Mocambique;Sofala
+1001;LAM_Maputo; AV. 2;Mocambique;Maputo
+1002;LAM_CaboDelgado; AV. 3;Mocambique;Cabo Delgado
+1003;LAM_Qelimane; AV. 4;Mocambique;Zambezia
+1004;LAM_Tete; AV. 6;Mocambique;Tete
+1005;LAM_Xai-Xai; AV. 12;Mocambique;Gaza

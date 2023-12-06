@@ -1,0 +1,6 @@
+1000;Boeing 777-200ER;550;1000;LAM_Maputo;AV.2;Mocambique;Maputo
+1001;Airbus A350-990;300;1001;LAM_Nampula;AV.1;Mocambique;Nampula
+1002;Airbus A380;220;1003;LAM_Maputo;Av.3;Mocambique;Tete
+1003;Cessna 172 SKYhawk;190;1003;LAM_Gaza;AV.4;Mocambique;Gaza
+1004;Airbus A350 XWB;200;1004;LAM_Beira;Av.5;Mocambique;Beira
+1005;Boeing 787;400;1005;LAM_Beira;AV.6;Mocambique;Beira

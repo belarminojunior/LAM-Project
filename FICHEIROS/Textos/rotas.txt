@@ -1,0 +1,6 @@
+1000;Maputo;Beira;1205
+1001;Inhambane;Tete;1166
+1002;Gaza;Maputo;206
+1003;Maputo;Nampula;2578
+1004;Maputo;Tete;1569
+1005;Chimoio;Quelimane;609
